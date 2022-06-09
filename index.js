@@ -12,7 +12,6 @@ function writeCards(array, eventName){
   }
   writeCards(["Guadalupe", "Ollie", "Aki"], "surprise")
   
-  //test while loop
   
   function countDown (integer){
     let i = 10;
